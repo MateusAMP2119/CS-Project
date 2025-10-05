@@ -1,5 +1,5 @@
 # User files to be ignored
-./.idea
+.idea
 
 # Ambiente virtual tem muitos ficheiros
-/venv
+venv
