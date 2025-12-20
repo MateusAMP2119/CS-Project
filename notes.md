@@ -1,0 +1,2 @@
+ - Dropar a latitude e longitude do dataset
+ - User YMAP em combinação com o PCA para visualização de clusters
