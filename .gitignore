@@ -3,3 +3,7 @@
 
 # Ambiente virtual tem muitos ficheiros
 venv
+
+.cursorrules
+.ai_rules
+start_jupyter_mcp.sh
