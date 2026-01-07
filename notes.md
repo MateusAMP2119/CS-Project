@@ -1,3 +1,7 @@
+Na análise exploratória falar de como se encontrou:
+ - Features com um alto desvio padrão. 
+ - Dadods skwed.
+ 
  - Dropar a latitude e longitude do dataset
  - User YMAP em combinação com o PCA para visualização de clusters
 
